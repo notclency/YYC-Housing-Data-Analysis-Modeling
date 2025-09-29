@@ -76,30 +76,30 @@ The main workflow is implemented in [`prod.py`](./prod.py), which prepares deriv
 Model Performance
 Our model achieved a Mean Absolute Error (MAE) of $51,927.53 on the test set:
 
-./images/output.png
+![image info](./images/output.png)
 
 Feature Correlations
 The correlation analysis revealed important relationships between features:
 
 Selected Features Correlation:
-https://./images/output_2.png
+![image info](./images/output_2.png)
 
 Original Features Correlation:
-https://./images/output_3.png
+![image info](./images/output_3.png)
 
 Geographic & Temporal Patterns
 Land Use Distribution:
-https://./images/output_4.png
+![image info](./images/output_4.png)
 
 Property Value vs Construction Year:
-https://./images/output_6.png
+![image info](./images/output_6.png)
 
 Construction Eras by Location:
-https://./images/output_7.png
+![image info](./images/output_7.png)
 
 Spatial Distribution
 Property Distribution by City Quadrant:
-https://./images/output_8.png
+![image info](./images/output_8.png)
 
 ---
 
@@ -109,7 +109,7 @@ https://./images/output_8.png
 
 When running `prod.py`, a scatter plot is generated comparing **actual vs. predicted house values**:
 
-![Prediction Plot](./images/prediction_plot.png)
+![Prediction Plot](./images/output.png)
 
 *(Red line = perfect predictions, dots = actual vs predicted values)*
 
