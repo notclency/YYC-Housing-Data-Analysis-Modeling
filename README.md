@@ -6,6 +6,8 @@ The main workflow is implemented in [`prod.py`](./prod.py), which prepares deriv
 
 ---
 
+!!! PKL MODEL TOO LARGE TO UPLOAD !!!
+
 ## 📊 Project Overview
 
 * **Goal:** Predict housing values using city data on land use, size, construction year, and location.
