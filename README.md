@@ -103,12 +103,3 @@ See full reflections in [`reflections.md`](./reflections.md).
 ├── data/                  # Dataset directory (not included in repo)
 └── images/                # Saved plots and visualizations
 ```
-
----
-
-## 🙌 Contributors
-
-* Glenn
-* Team members (add names here)
-
----
