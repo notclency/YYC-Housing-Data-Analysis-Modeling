@@ -69,6 +69,40 @@ The main workflow is implemented in [`prod.py`](./prod.py), which prepares deriv
 
 ---
 
+---
+
+## 📈 Data Analysis & Visualizations
+
+Model Performance
+Our model achieved a Mean Absolute Error (MAE) of $51,927.53 on the test set:
+
+./images/output.png
+
+Feature Correlations
+The correlation analysis revealed important relationships between features:
+
+Selected Features Correlation:
+https://./images/output_2.png
+
+Original Features Correlation:
+https://./images/output_3.png
+
+Geographic & Temporal Patterns
+Land Use Distribution:
+https://./images/output_4.png
+
+Property Value vs Construction Year:
+https://./images/output_6.png
+
+Construction Eras by Location:
+https://./images/output_7.png
+
+Spatial Distribution
+Property Distribution by City Quadrant:
+https://./images/output_8.png
+
+---
+
 ## 📈 Example Outputs
 
 ### Prediction Plot
